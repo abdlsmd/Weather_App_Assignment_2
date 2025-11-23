@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌤 Flutter Weather App
 
 ## Overview
@@ -109,3 +110,6 @@ lib/
 
 ### License
 This project is licensed under the MIT License. Enjoy building! 🚀
+=======
+# Weather_App_Assignment_2
+>>>>>>> 10cf989da522743c21b6562c3d76f79a9cb01580
