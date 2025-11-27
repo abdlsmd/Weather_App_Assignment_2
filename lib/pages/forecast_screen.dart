@@ -9,7 +9,6 @@ class ForecastScreen extends StatelessWidget {
   ForecastScreen({Key? key}) : super(key: key);
 
   String _shortDate(String raw) {
-    // Expect formats like "2025-11-23 12:00:00" or similar; return only the date or a nicer format.
     try {
       if (raw.contains(' ')) return raw.split(' ').first;
       return raw;
